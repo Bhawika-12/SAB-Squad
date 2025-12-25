@@ -5,4 +5,5 @@ safe medication for elderly or dependent users.
 
 First When The Robot Dispenses Medicine 
 Second THIS updates the Stock After 7 Sec when Robot Reaches its destination
-
+if the stock is low its send the alert to the app that medicine are low 
+then they have the option of Manual Restocking in the app
