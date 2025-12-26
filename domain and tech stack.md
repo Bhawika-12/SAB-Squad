@@ -1,0 +1,40 @@
+# AiVa - Where AI Meets Human Care 
+
+## Domain
+
+We Have Chosen the Domain IOT and Smart Automation 
+
+## Tech Stack
+
+Techenical Components Used
+
+1.) Robot Chasis 
+
+2.) 4 - DC motor 
+
+3.) 4 - wheels
+
+4.) 1 - Arduino UNO 
+
+5.) 1 - Motor Driver Shield 
+
+6.) some Connecting Wires 
+
+7.) Servo Motor 
+
+8.) HCSR-04 UltraSonic Sensor 
+
+## Uses 
+
+1.) HCSR-04 - We Have used HCSR-04 for detecting the object obstacle detetction
+if any obstacles has been found Then the robot will move slighlty backward 
+Have some turn then move forward 
+
+2.) Motor Driver Shield - for controlling the 4 different Motors
+
+3.) Servo Motor - For having the 180 degree movement of HCSR-04 
+
+4.) Motor and Wheels - for the movement of robot 
+
+5.) Arduino UNO - brain of the robot
+
