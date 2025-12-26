@@ -1,15 +1,28 @@
-#  AiVa — Where AiVi Meets HumanCare 
-### An AI-Powered Assistive Robot for Timely Medication & Elderly Care
+# Solutions: AiVa — Where AI Meets HumanCare
+
+AiVa is an AI-powered assistive robotic system engineered to bridge the gap between medical technology and empathetic elderly care. It specifically targets medication non-adherence in elderly, chronic-care, and disabled populations.
+
+## 🛠 Core Technical Solution
+
+Our system automates the medication delivery cycle through a three-stage process:
+
+### 1. Intelligent Alerting System
+* **Persistence Logic:** At scheduled intervals, AiVa triggers a high-frequency acoustic alarm. 
+* **Fail-safe Mechanism:** The alert remains active until physical or voice acknowledgement is received, ensuring reminders are never missed due to deep sleep or hearing impairment.
+
+### 2. Signal-Based Navigation (Homing)
+* **Smart Wristband Integration:** Once the alert is acknowledged, a wearable smart wristband begins emitting localized signals (RF/Ultrasonic).
+* **Signal Strength Localization:** The robot utilizes RSSI (Received Signal Strength Indicator) logic to triangulate and follow the strongest signal path, allowing it to navigate directly to the patient’s precise location without requiring a pre-mapped environment.
+
+### 3. Precision Delivery
+* **Dose Verification:** Upon reaching the patient, the robot dispenses the pre-allocated medication, eliminating the "double-dose" or "missed-dose" confusion common in memory-related conditions.
 
 ---
 
-## Solutions
+## ⚖️ Intellectual Property & Innovation
+* **Patent Status:** This solution is officially protected under **Patent Number: 202511095020**.
+* **Innovation Focus:** Unlike stationary dispensers, AiVa’s proactive mobility ensures the medicine reaches the patient, rather than expecting the patient to reach the medicine.
 
-Our Solution "AiVa - Where Ai meets Human Care" is designed to help elderly people, patients with chronic diseases, and physically disabled individuals take their medicines on time. AiVa supports daily medication routines and helps reduce health risks caused by missed or incorrect doses.
-
-At the scheduled time, AiVa triggers an alarm to alert the patient. The alert continues until the user responds, making sure the reminder is not ignored. This helps patients who often forget their medicine timings due to age, memory issues, or health conditions.
-Once the patient responds, a smart wristband worn by the patient starts emitting signals. The robot detects these signals and follows the direction where the signal strength is highest. Using this method, the robot is able to move safely and accurately toward the patient’s location.
-
-After reaching the patient, the robot delivers the medicine so the patient can take the correct dose at the right time. This reduces confusion about whether the medicine has already been taken or not and lowers the chances of missing or repeating a dose.
-
-The solution is protected under Patent Number: 202511095020, showing its originality and innovation. In future updates (Round 2), the system will also update the medicine stock status in the mobile application to help caregivers manage refills on time.
+## 🔮 Future Roadmap (Round 2)
+* **Inventory Management:** Automated medicine stock tracking via a dedicated mobile application.
+* **Caregiver Synchronization:** Real-time push notifications to caregivers when a dose is successfully administered or if a refill is required.
