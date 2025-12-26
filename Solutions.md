@@ -2,7 +2,7 @@
 
 AiVa is an AI-powered assistive robotic system engineered to bridge the gap between medical technology and empathetic elderly care. It specifically targets medication non-adherence in elderly, chronic-care, and disabled populations.
 
-## 🛠 Core Technical Solution
+## Core Technical Solution
 
 Our system automates the medication delivery cycle through a three-stage process:
 
@@ -19,10 +19,11 @@ Our system automates the medication delivery cycle through a three-stage process
 
 ---
 
-## ⚖️ Intellectual Property & Innovation
+##  Intellectual Property & Innovation
 * **Patent Status:** This solution is officially protected under **Patent Number: 202511095020**.
 * **Innovation Focus:** Unlike stationary dispensers, AiVa’s proactive mobility ensures the medicine reaches the patient, rather than expecting the patient to reach the medicine.
 
-## 🔮 Future Roadmap (Round 2)
-* **Inventory Management:** Automated medicine stock tracking via a dedicated mobile application.
-* **Caregiver Synchronization:** Real-time push notifications to caregivers when a dose is successfully administered or if a refill is required.
+##  Future Scope & Scalability
+* **Voice Command Integration:** Implementing Natural Language Processing (NLP) to allow the elderly to call AiVa using simple voice prompts like "AiVa, bring my medicine."
+* **Advanced Obstacle Avoidance:** Utilizing LiDAR or depth cameras for more dynamic navigation around moving pets or rearranged furniture.
+* **Caregiver Analytics:** A cloud-based dashboard providing weekly health reports to doctors regarding medication adherence.
